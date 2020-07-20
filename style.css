@@ -1,0 +1,35 @@
+h1 {
+    color:red;
+}
+.header{
+    background-color: black;
+    display: flex;
+    justify-content:space between;
+
+}
+
+.site-desctiption{
+    display:flex;
+    flex-direction: wrap;
+    justify-content: first baseline;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-start;
+}
+
+p,h2{
+    text-align:center;
+}
+
+
+
+
+
